@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Feature Net
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta charset="utf-8" />
